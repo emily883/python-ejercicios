@@ -27,6 +27,10 @@ def pantalla():
 	elif palabra == "amor":
 		sadu=Label(miframe, text="Que lind@ xd")
 		sadu.grid(row=6, column=1, columnspa=2, pady=10, padx=10)
+	elif palabra == "odio":
+		sadu=Label(miframe, text="pudrete >:v")
+		sadu.grid(row=6, column=1, columnspa=2, pady=10, padx=10)
+	
 	
 
 
