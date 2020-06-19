@@ -1,4 +1,4 @@
 # python-ejercicios
 
 ## Modificacion
-- Mdificación desde laptop
+- Modificación desde laptop
